@@ -63,11 +63,3 @@ Algumas sugestões do que pode ser implementado:
 - Implemente funcionalidades para buscar livros por título ou autor.
 Adicione filtros para listar apenas livros de determinados gêneros, ou livros que foram adicionados recentemente.
 - Indo mais além, você pode adicionar um menu, que ao iniciar o sistema, pergunta ao usuário se ele quer cadastrar um novo livro, porém para isso, deverá inserir todos os parâmetros do livro, e após adicionar, o livro ficará disponível para empréstimo.
-- ## Entrega
-
-Após concluir o desafio, você deve enviar a URL do seu código no GitHub para a plataforma. 
-
-Além disso, que tal fazer um post no LinkedIn compartilhando o seu aprendizado e contando como foi a experiência?
-É uma excelente forma de demonstrar seus conhecimentos e atrair novas oportunidades!
-
-Feito com 💜 por Rocketseat 👋
